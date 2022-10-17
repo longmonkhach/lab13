@@ -1,0 +1,25 @@
+#myCarousel {
+  margin-top:56px;
+}
+
+
+.bg-img1 {
+  height: 500px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/chicago.jpg);
+}
+
+.bg-img2 {
+  height: 500px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/la.jpg);
+}
+
+.bg-img3 {
+  height: 500px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(images/ny.jpg);
+}
